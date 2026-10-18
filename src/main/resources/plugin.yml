@@ -1,0 +1,10 @@
+name: ServerStatusPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin to display and update Minecraft server status
+api-version: "1.21"
+commands:
+  serverstatus:
+    description: Displays the server status
+    usage: /serverstatus
